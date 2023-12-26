@@ -1,1 +1,1 @@
-# traffic_sign_localization
+# object_localization
